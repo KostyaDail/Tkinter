@@ -1,4 +1,4 @@
-# Конвертор валюты
+# Конвертер валют
 
 from tkinter import *
 from tkinter import ttk
